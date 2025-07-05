@@ -1,0 +1,18 @@
+# Core ML Libraries
+torch
+torchvision
+scikit-learn
+pandas
+spacy
+
+# For the spaCy model
+# After installing spacy, you might need to run:
+# python -m spacy download en_core_web_sm
+
+# For Visualization and Image Processing
+matplotlib
+opencv-python-headless
+
+# For the Bonus Deployment Task
+streamlit
+streamlit-drawable-canvas 
